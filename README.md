@@ -1,3 +1,4 @@
+![Python application](https://github.com/ds-praveenkumar/ds-project-template/workflows/Python%20application/badge.svg?branch=main&event=push)
 # ds-project-template
 starter code for ds projects
 
