@@ -6,7 +6,8 @@ starter code for ds projects
 ├── LICENSE <br/>
 ├── README.md <br/>
 ├── config <br/>
-│   └── __init__.py <br/>
+│   └── __ init__.py <br/>
+│   └── config.py <br/>
 ├── data <br/>
 ├── docs <br/>
 ├── models <br/>
@@ -14,14 +15,13 @@ starter code for ds projects
 └── src <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── __init__.py <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ├── build <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    │   └── __init__.py <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    │   └── __ init__.py <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ├── predict <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    │   └── __init__.py <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    │   └── __ init__.py <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    └── prepare <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;         └── __init__.py 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;         └── __ init__.py 
 
 9 directories, 7 files
-
 
 ## Requirement
 ```
