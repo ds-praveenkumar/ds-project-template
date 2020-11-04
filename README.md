@@ -2,26 +2,28 @@
 starter code for ds projects
 
 ## Directory structure ds-project-template
-├── LICENSE
-├── README.md
-├── config
-│   └── __init__.py
-├── data
-├── docs
-├── models
-├── notebooks
-└── src
-    ├── __init__.py
-    ├── build
-    │   └── __init__.py
-    ├── predict
-    │   └── __init__.py
-    └── prepare
-        └── __init__.py
+
+├── LICENSE <br/>
+├── README.md <br/>
+├── config <br/>
+│   └── __init__.py <br/>
+├── data <br/>
+├── docs <br/>
+├── models <br/>
+├── notebooks <br/>
+└── src <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── __init__.py <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ├── build <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    │   └── __init__.py <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ├── predict <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    │   └── __init__.py <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    └── prepare <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;         └── __init__.py 
 
 9 directories, 7 files
 
 
-## Setup
-- python 3.8
-
+## Requirement
+```
+python 3.8
+```
