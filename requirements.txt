@@ -1,6 +1,8 @@
 numpy 
 pandas
 matplotlib
-pytorch 
+torch===1.7.0
+torchvision===0.8.1 
+torchaudio===0.7.0
 scikit-learn
 joblib
