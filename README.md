@@ -27,3 +27,11 @@ starter code for ds projects
 ```
 python 3.8
 ```
+* Update the requirements.txt with your dependencies names
+
+## Setup steps
+```
+1. git clone https://github.com/ds-praveenkumar/ds-project-template.git
+2. cd ds-project-template
+3. pip install requirements.txt
+```
