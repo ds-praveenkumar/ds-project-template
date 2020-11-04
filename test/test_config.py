@@ -14,5 +14,8 @@ from pathlib import Path
 from config import config
 
 class TestConfig(unittest.TestCase):
+
+
     def test_data_path(self):
-        self.assertEqual(config.Config.DATA_DIR, Path(Path.cwd()).resolve() / "data" )
+        self.assertEqual(config.Config.DATA_DIR, Path(Path.cwd()).resolve() / "data")
+        

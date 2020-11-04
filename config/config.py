@@ -9,10 +9,11 @@
 #
 
 
-from pathlib import  Path
+from pathlib import Path
 
 class Config:
     """ stores default configuration """
+
 
     ROOT_DIR=Path(Path.cwd()).resolve().as_posix()
     DATA_DIR=Path(ROOT_DIR) / "data"
