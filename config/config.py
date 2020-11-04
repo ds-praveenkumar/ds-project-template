@@ -13,10 +13,9 @@ Set defauls paths
 
 from pathlib import Path
 
+
 class Config:
     """ stores default configuration """
-
-
     ROOT_DIR = Path(Path.cwd()).resolve().as_posix()
     DATA_DIR = Path(ROOT_DIR) / "data"
     RAW_DATA = Path(DATA_DIR) / "raw"
