@@ -12,13 +12,13 @@
 """ makes prediction """
 import torch
 
-from src.build.build import 
+from src.build.build import LitAutoEncoder
 
 class Predict:
     """ Make prediction on test data """
     def __init__(self):
         """ Initilize model parameters  """
-
+        model = LitAutoEncoder()
         dl = enumerate(mnist_train_loader)
         _, (datas, targets) = next(dl)
         logits = model.forward(datas)
